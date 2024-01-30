@@ -6,6 +6,6 @@
 <br><br>
 [[Middle Project]](https://github.com/zarnits/10M_Movie)  천만 영화의 조건 분석 프로젝트
 <br>
-[[Final Project]](https://acornedu.co.kr/lms/upload/project/2023/8/AIBigdata_23_02.pdf)  AI기반 자동차 수리비 예측 프로젝트
-<br><br><br>
+[[Final Project]](https://acornedu.co.kr/lms/upload/project/2023/8/AIBigdata_23_02.pdf) [[Github]](https://github.com/khun0115/Final_Project/tree/master)  AI기반 자동차 수리비 예측 프로젝트
+<br><br><br><br>
 ![image](https://github.com/eunkk01/AI_BigData_Projects/blob/main/acorn_cur.png)
