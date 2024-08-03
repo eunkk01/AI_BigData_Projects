@@ -4,7 +4,7 @@
 <br>
 기간: 2023.02.07. - 2023.07.12.
 <br><br>
-[[Middle Project]](https://github.com/zarnits/10M_Movie)  천만 영화의 조건 분석 프로젝트
+[[Middle Project]](https://github.com/zarnits/10M_Movie) [천만 영화의 조건 분석 프로젝트](https://github.com/zarnits/10M_Movie/blob/master/ppt/template_final.pdf)
 <br>
 [[Final Project]](https://acornedu.co.kr/lms/upload/project/2023/8/AIBigdata_23_02.pdf) [[Github]](https://github.com/khun0115/Final_Project/tree/master)  AI기반 자동차 수리비 예측 프로젝트
 <br><br><br><br>
